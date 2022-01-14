@@ -1,0 +1,23 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "my portfolio ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jumacruz/Portafolio.git"
+  },
+  "author": "Juan Cruz Melara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jumacruz/Portafolio/issues"
+  },
+  "homepage": "https://github.com/Jumacruz/Portafolio#readme",
+  "dependencies": {
+    "eins-modal": "^2.2.2",
+    "normalize.css": "^8.0.1"
+  }
+}
